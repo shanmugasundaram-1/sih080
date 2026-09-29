@@ -1,0 +1,10 @@
+Columns:
+['date_of_record', 'month', 'season', 'station_name', 'state', 'district', 'avg_temp', 'min_temp', 'max_temp', 'wind_speed', 'air_pressure', 'elevation', 'latitude', 'longitude', 'rainfall']
+
+Data:
+  date_of_record    month  season station_name state   district  avg_temp  min_temp  max_temp  wind_speed  air_pressure  elevation  latitude  longitude  rainfall
+0     2021-01-02  January  Winter      Gulmarg    JK  Baramulla      -2.2      -6.6      -0.8         2.2        1020.0       2652     34.05       74.4       0.1
+1     2021-01-03  January  Winter      Gulmarg    JK  Baramulla      -3.6      -4.6      -1.8         3.7        1019.5       2652     34.05       74.4       4.4
+2     2021-01-04  January  Winter      Gulmarg    JK  Baramulla      -3.0      -4.5      -1.1         2.1        1022.0       2652     34.05       74.4       2.3
+3     2021-01-05  January  Winter      Gulmarg    JK  Baramulla      -3.3      -5.1      -1.2         2.8        1015.6       2652     34.05       74.4      35.0
+4     2021-01-06  January  Winter      Gulmarg    JK  Baramulla      -3.9      -8.3      -1.0         3.4        1015.3       2652     34.05       74.4      25.5

@@ -1,0 +1,24 @@
+# =====================================================
+# AeroBust - AI Rainfall Forecast Backend
+# Requirements File
+# =====================================================
+
+# --- Web Framework & Server ---
+fastapi==0.115.0
+uvicorn[standard]==0.32.0
+pydantic==2.9.2
+
+# --- Machine Learning & Data Science ---
+scikit-learn==1.5.2
+numpy==1.26.4
+pandas==2.2.3
+joblib==1.4.2
+
+# --- Excel File Support (for .xlsx datasets) ---
+openpyxl==3.1.5
+
+# --- HTTP Requests (for Open-Meteo API) ---
+requests==2.32.3
+
+# --- CORS (included with FastAPI, listed for clarity) ---
+# fastapi already brings starlette which handles CORSMiddleware

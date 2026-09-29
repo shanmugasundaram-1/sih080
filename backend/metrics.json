@@ -1,0 +1,710 @@
+{
+    "overall": {
+        "RMSE": 2.56,
+        "POD": 0.71,
+        "FAR": 0.05,
+        "CSI": 0.69
+    },
+    "daily_data": [
+        {
+            "day": "Day 1",
+            "actualRain": 35.0,
+            "forecastedRain": 49.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 2",
+            "actualRain": 25.5,
+            "forecastedRain": 23.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 3",
+            "actualRain": 26.0,
+            "forecastedRain": 27.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 4",
+            "actualRain": 7.8,
+            "forecastedRain": 7.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 5",
+            "actualRain": 8.7,
+            "forecastedRain": 4.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 6",
+            "actualRain": 35.6,
+            "forecastedRain": 29.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 7",
+            "actualRain": 15.6,
+            "forecastedRain": 19.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 8",
+            "actualRain": 20.2,
+            "forecastedRain": 17.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 9",
+            "actualRain": 6.6,
+            "forecastedRain": 9.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 10",
+            "actualRain": 19.4,
+            "forecastedRain": 17.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 11",
+            "actualRain": 21.6,
+            "forecastedRain": 17.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 12",
+            "actualRain": 7.2,
+            "forecastedRain": 5.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 13",
+            "actualRain": 17.4,
+            "forecastedRain": 12.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 14",
+            "actualRain": 26.5,
+            "forecastedRain": 26.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 15",
+            "actualRain": 37.6,
+            "forecastedRain": 34.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 16",
+            "actualRain": 15.4,
+            "forecastedRain": 15.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 17",
+            "actualRain": 8.2,
+            "forecastedRain": 2.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 18",
+            "actualRain": 16.2,
+            "forecastedRain": 14.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 19",
+            "actualRain": 9.8,
+            "forecastedRain": 6.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 20",
+            "actualRain": 6.0,
+            "forecastedRain": 3.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 21",
+            "actualRain": 24.5,
+            "forecastedRain": 22.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 22",
+            "actualRain": 9.1,
+            "forecastedRain": 11.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 23",
+            "actualRain": 8.3,
+            "forecastedRain": 12.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 24",
+            "actualRain": 18.2,
+            "forecastedRain": 21.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 25",
+            "actualRain": 22.4,
+            "forecastedRain": 25.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 26",
+            "actualRain": 24.7,
+            "forecastedRain": 29.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 27",
+            "actualRain": 12.6,
+            "forecastedRain": 15.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 28",
+            "actualRain": 7.2,
+            "forecastedRain": 10.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 29",
+            "actualRain": 7.6,
+            "forecastedRain": 6.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 30",
+            "actualRain": 10.3,
+            "forecastedRain": 4.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 31",
+            "actualRain": 10.1,
+            "forecastedRain": 0.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 32",
+            "actualRain": 5.9,
+            "forecastedRain": 3.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 33",
+            "actualRain": 8.7,
+            "forecastedRain": 3.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 34",
+            "actualRain": 10.4,
+            "forecastedRain": 8.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 35",
+            "actualRain": 5.9,
+            "forecastedRain": 4.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 36",
+            "actualRain": 6.0,
+            "forecastedRain": 0.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 37",
+            "actualRain": 5.1,
+            "forecastedRain": 1.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 38",
+            "actualRain": 9.4,
+            "forecastedRain": 7.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 39",
+            "actualRain": 13.9,
+            "forecastedRain": 15.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 40",
+            "actualRain": 8.2,
+            "forecastedRain": 11.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 41",
+            "actualRain": 6.4,
+            "forecastedRain": 6.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 42",
+            "actualRain": 9.2,
+            "forecastedRain": 5.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 43",
+            "actualRain": 6.5,
+            "forecastedRain": 4.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 44",
+            "actualRain": 27.5,
+            "forecastedRain": 26.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 45",
+            "actualRain": 16.8,
+            "forecastedRain": 18.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 46",
+            "actualRain": 40.3,
+            "forecastedRain": 48.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 47",
+            "actualRain": 5.7,
+            "forecastedRain": 5.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 48",
+            "actualRain": 7.0,
+            "forecastedRain": 4.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 49",
+            "actualRain": 41.3,
+            "forecastedRain": 48.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 50",
+            "actualRain": 15.9,
+            "forecastedRain": 15.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 51",
+            "actualRain": 22.8,
+            "forecastedRain": 24.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 52",
+            "actualRain": 21.2,
+            "forecastedRain": 18.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 53",
+            "actualRain": 7.5,
+            "forecastedRain": 3.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 54",
+            "actualRain": 7.4,
+            "forecastedRain": 6.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 55",
+            "actualRain": 6.4,
+            "forecastedRain": 9.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 56",
+            "actualRain": 7.1,
+            "forecastedRain": 6.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 57",
+            "actualRain": 6.7,
+            "forecastedRain": 3.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 58",
+            "actualRain": 9.8,
+            "forecastedRain": 11.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 59",
+            "actualRain": 5.5,
+            "forecastedRain": 7.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 60",
+            "actualRain": 5.4,
+            "forecastedRain": 4.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 61",
+            "actualRain": 7.3,
+            "forecastedRain": 6.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 62",
+            "actualRain": 7.3,
+            "forecastedRain": 3.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 63",
+            "actualRain": 7.3,
+            "forecastedRain": 4.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 64",
+            "actualRain": 6.0,
+            "forecastedRain": 5.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 65",
+            "actualRain": 14.3,
+            "forecastedRain": 12.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 66",
+            "actualRain": 24.4,
+            "forecastedRain": 26.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 67",
+            "actualRain": 37.1,
+            "forecastedRain": 43.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 68",
+            "actualRain": 11.6,
+            "forecastedRain": 5.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 69",
+            "actualRain": 9.3,
+            "forecastedRain": 12.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 70",
+            "actualRain": 17.8,
+            "forecastedRain": 12.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 71",
+            "actualRain": 7.0,
+            "forecastedRain": 0.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 72",
+            "actualRain": 13.1,
+            "forecastedRain": 17.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 73",
+            "actualRain": 9.0,
+            "forecastedRain": 7.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 74",
+            "actualRain": 7.0,
+            "forecastedRain": 2.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 75",
+            "actualRain": 8.4,
+            "forecastedRain": 6.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 76",
+            "actualRain": 12.4,
+            "forecastedRain": 6.4,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 77",
+            "actualRain": 42.4,
+            "forecastedRain": 56.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 78",
+            "actualRain": 21.2,
+            "forecastedRain": 18.0,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 79",
+            "actualRain": 60.7,
+            "forecastedRain": 50.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 80",
+            "actualRain": 7.6,
+            "forecastedRain": 13.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 81",
+            "actualRain": 11.7,
+            "forecastedRain": 12.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 82",
+            "actualRain": 5.7,
+            "forecastedRain": 7.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 83",
+            "actualRain": 20.2,
+            "forecastedRain": 19.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 84",
+            "actualRain": 18.4,
+            "forecastedRain": 17.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 85",
+            "actualRain": 9.8,
+            "forecastedRain": 5.1,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 86",
+            "actualRain": 9.8,
+            "forecastedRain": 4.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 87",
+            "actualRain": 28.6,
+            "forecastedRain": 18.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 88",
+            "actualRain": 5.7,
+            "forecastedRain": 3.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 89",
+            "actualRain": 10.5,
+            "forecastedRain": 11.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 90",
+            "actualRain": 5.8,
+            "forecastedRain": 2.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 91",
+            "actualRain": 15.1,
+            "forecastedRain": 12.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 92",
+            "actualRain": 5.3,
+            "forecastedRain": 1.9,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 93",
+            "actualRain": 8.2,
+            "forecastedRain": 12.6,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 94",
+            "actualRain": 11.4,
+            "forecastedRain": 13.2,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 95",
+            "actualRain": 5.1,
+            "forecastedRain": 5.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 96",
+            "actualRain": 12.2,
+            "forecastedRain": 7.5,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 97",
+            "actualRain": 9.4,
+            "forecastedRain": 1.3,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 98",
+            "actualRain": 6.9,
+            "forecastedRain": 2.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 99",
+            "actualRain": 18.6,
+            "forecastedRain": 14.8,
+            "POD": 0.71,
+            "FAR": 0.05
+        },
+        {
+            "day": "Day 100",
+            "actualRain": 5.2,
+            "forecastedRain": 4.7,
+            "POD": 0.71,
+            "FAR": 0.05
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+ Volume in drive C is HP
+ Volume Serial Number is 309F-5A4B
+
+ Directory of C:\Users\ELCOT\Videos\sih080
+
+26-09-2026  18:43    <DIR>          .
+26-09-2026  06:13    <DIR>          ..
+25-09-2026  11:23    <DIR>          backend
+20-09-2026  18:13             1,344 data_preview.txt
+20-09-2026  18:14             1,187 data_preview2.txt
+26-09-2026  13:14    <DIR>          frontend
+26-09-2026  18:43               110 test.txt
+               3 File(s)          2,641 bytes
+               4 Dir(s)   6,636,924,928 bytes free
